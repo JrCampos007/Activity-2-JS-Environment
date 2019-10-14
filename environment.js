@@ -1,4 +1,4 @@
-// Week 3: JS Environment
+/////////////////////// Activity 2: JS Environment ///////////////////////
 
 console.log("Lets make sure JavaScript is working.");
 var name = "Jose";
